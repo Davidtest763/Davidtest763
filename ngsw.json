@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1603687865559,
+  "timestamp": 1603721798145,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -42,7 +42,6 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
-        "/assets/icons/logo-colombina.png",
         "/assets/image/logo-colombina.png",
         "/assets/image/logo.png",
         "/assets/image/sidebar-2.png",
@@ -65,10 +64,9 @@
     "/assets/icons/icon-152x152.png": "0f1534eab091d1f758a8f67966efb63785b48480",
     "/assets/icons/icon-192x192.png": "f5522131728eb5308931a773117aaa5f0a55cf8a",
     "/assets/icons/icon-384x384.png": "9b0c6a08898ee71a9dd6a2481c2eb807997165cc",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-512x512.png": "816553f60e5a41c992c49d9fd2f13cb1007ac9ff",
     "/assets/icons/icon-72x72.png": "dc498defe4d16460a6b1c65c110089d84334f0f8",
     "/assets/icons/icon-96x96.png": "78f5335a143d1287160c33b3b56915b8b21fbf5a",
-    "/assets/icons/logo-colombina.png": "816553f60e5a41c992c49d9fd2f13cb1007ac9ff",
     "/assets/image/logo-colombina.png": "323fac88b9d408b339f457c8b547d08b8d63862e",
     "/assets/image/logo.png": "1bbd24aed6af6471e3929f4cb6885ecfa97d4f97",
     "/assets/image/sidebar-2.png": "84f1b1cc26a3d439862ce35dea4d14021ee7e227",
@@ -77,7 +75,7 @@
     "/index.html": "75b75cbfad50c30304038f4a89635deb541bb348",
     "/logo-colombina.7cdded050ce1e9fec8bd.png": "323fac88b9d408b339f457c8b547d08b8d63862e",
     "/main.23929e778f4ff4aefa39.js": "6fbc171244802d40d60b545c899eb92bcd7ad930",
-    "/manifest.webmanifest": "e5ecc0ceca21f39ad04359566fd8e34ebe2b49be",
+    "/manifest.webmanifest": "bf79731601747851a148fb9fb0b19c8c3e34f519",
     "/polyfills.2b9efda34b919da8fe8a.js": "9db3f1bf5afbecb31233abc0b143858b395cc9e9",
     "/runtime.ba26861fb3b6ebd1681f.js": "dbe158fd64236fabfe2ec0fb41a6ee8470174bd1",
     "/sidebar-2.811e8d2ea8ca66d56752.png": "84f1b1cc26a3d439862ce35dea4d14021ee7e227",
