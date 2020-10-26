@@ -1,0 +1,104 @@
+{
+  "configVersion": 1,
+  "timestamp": 1603729666359,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/1.9196ddfca9b30a8cc5ff.js",
+        "/5.d0161d36493afaca7f1a.js",
+        "/6.5dabe484aa27b4f4380a.js",
+        "/7.108be6a1f7ee4a7637a0.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.23929e778f4ff4aefa39.js",
+        "/manifest.webmanifest",
+        "/polyfills.2b9efda34b919da8fe8a.js",
+        "/runtime.fa520c066e74cb40696e.js",
+        "/styles.f012a40446803773785b.css",
+        "/sw.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/image/logo-colombina.png",
+        "/assets/image/logo.png",
+        "/assets/image/sidebar-2.png",
+        "/assets/image/sidebar-3.png",
+        "/logo-colombina.7cdded050ce1e9fec8bd.png",
+        "/sidebar-2.811e8d2ea8ca66d56752.png",
+        "/sidebar-3.f3b7fb8aa390ebdda164.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/1.9196ddfca9b30a8cc5ff.js": "87293db14ceaaa14bb2bebf7a8ae918e747a6fe3",
+    "/5.d0161d36493afaca7f1a.js": "f951b7cd67ca9043989effc894fc8b67c05b0aa2",
+    "/6.5dabe484aa27b4f4380a.js": "bc0b08726caa0196aa15b5ecb2eb7960e5f4b988",
+    "/7.108be6a1f7ee4a7637a0.js": "5eaa6666cd5a02da8cee0d5c2681029ec737c47a",
+    "/assets/icons/icon-128x128.png": "e84b12c06edfc89f7c74c3ea65f17214cc75bc66",
+    "/assets/icons/icon-144x144.png": "7c935bc04607c52ebae6b8bcd8d2f061a78bd73a",
+    "/assets/icons/icon-152x152.png": "0f1534eab091d1f758a8f67966efb63785b48480",
+    "/assets/icons/icon-192x192.png": "f5522131728eb5308931a773117aaa5f0a55cf8a",
+    "/assets/icons/icon-384x384.png": "9b0c6a08898ee71a9dd6a2481c2eb807997165cc",
+    "/assets/icons/icon-512x512.png": "816553f60e5a41c992c49d9fd2f13cb1007ac9ff",
+    "/assets/icons/icon-72x72.png": "dc498defe4d16460a6b1c65c110089d84334f0f8",
+    "/assets/icons/icon-96x96.png": "78f5335a143d1287160c33b3b56915b8b21fbf5a",
+    "/assets/image/logo-colombina.png": "323fac88b9d408b339f457c8b547d08b8d63862e",
+    "/assets/image/logo.png": "1bbd24aed6af6471e3929f4cb6885ecfa97d4f97",
+    "/assets/image/sidebar-2.png": "84f1b1cc26a3d439862ce35dea4d14021ee7e227",
+    "/assets/image/sidebar-3.png": "9a47bfb91b2971ca69ce28864c12d409261f6d1d",
+    "/favicon.ico": "30a309d25b7495e4a8cedfd500a8c26a93d570a0",
+    "/index.html": "1ddc86f894c3d27096aef038e4b27483ffcdd9e7",
+    "/logo-colombina.7cdded050ce1e9fec8bd.png": "323fac88b9d408b339f457c8b547d08b8d63862e",
+    "/main.23929e778f4ff4aefa39.js": "6fbc171244802d40d60b545c899eb92bcd7ad930",
+    "/manifest.webmanifest": "9199c3ac0c399f8ad30ec1054c67b76e3829e72f",
+    "/polyfills.2b9efda34b919da8fe8a.js": "9db3f1bf5afbecb31233abc0b143858b395cc9e9",
+    "/runtime.fa520c066e74cb40696e.js": "7d02d3cd4a9041dce175006d8b023d8060760fd4",
+    "/sidebar-2.811e8d2ea8ca66d56752.png": "84f1b1cc26a3d439862ce35dea4d14021ee7e227",
+    "/sidebar-3.f3b7fb8aa390ebdda164.png": "9a47bfb91b2971ca69ce28864c12d409261f6d1d",
+    "/styles.f012a40446803773785b.css": "e2d8f49be495286251a9b3ed8e17066ad758b59a",
+    "/sw.js": "902d9b1bc7a91f98957b2a9e7ef2b8e28b9ab1b9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
