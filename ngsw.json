@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1603727179917,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/1.9196ddfca9b30a8cc5ff.js",
+        "/5.e9ef07a8fc4f3ff12122.js",
+        "/6.5dabe484aa27b4f4380a.js",
+        "/7.108be6a1f7ee4a7637a0.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.23929e778f4ff4aefa39.js",
+        "/manifest.webmanifest",
+        "/polyfills.2b9efda34b919da8fe8a.js",
+        "/runtime.982ea1fab90790fd4695.js",
+        "/styles.f012a40446803773785b.css",
+        "/sw.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/image/logo-colombina.png",
+        "/assets/image/logo.png",
+        "/assets/image/sidebar-2.png",
+        "/assets/image/sidebar-3.png",
+        "/logo-colombina.7cdded050ce1e9fec8bd.png",
+        "/sidebar-2.811e8d2ea8ca66d56752.png",
+        "/sidebar-3.f3b7fb8aa390ebdda164.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/1.9196ddfca9b30a8cc5ff.js": "87293db14ceaaa14bb2bebf7a8ae918e747a6fe3",
+    "/5.e9ef07a8fc4f3ff12122.js": "a3f7f62ffd9e86bf81301906c7ce6abcc9e4cecb",
+    "/6.5dabe484aa27b4f4380a.js": "bc0b08726caa0196aa15b5ecb2eb7960e5f4b988",
+    "/7.108be6a1f7ee4a7637a0.js": "5eaa6666cd5a02da8cee0d5c2681029ec737c47a",
+    "/assets/image/logo-colombina.png": "323fac88b9d408b339f457c8b547d08b8d63862e",
+    "/assets/image/logo.png": "1bbd24aed6af6471e3929f4cb6885ecfa97d4f97",
+    "/assets/image/sidebar-2.png": "84f1b1cc26a3d439862ce35dea4d14021ee7e227",
+    "/assets/image/sidebar-3.png": "9a47bfb91b2971ca69ce28864c12d409261f6d1d",
+    "/favicon.ico": "30a309d25b7495e4a8cedfd500a8c26a93d570a0",
+    "/index.html": "65927c1e5e468f761a3c5b2debd24b1a33c08bee",
+    "/logo-colombina.7cdded050ce1e9fec8bd.png": "323fac88b9d408b339f457c8b547d08b8d63862e",
+    "/main.23929e778f4ff4aefa39.js": "6fbc171244802d40d60b545c899eb92bcd7ad930",
+    "/manifest.webmanifest": "8e25ea842d811e21a3fe6cf44693ed30e55063ec",
+    "/polyfills.2b9efda34b919da8fe8a.js": "9db3f1bf5afbecb31233abc0b143858b395cc9e9",
+    "/runtime.982ea1fab90790fd4695.js": "6ff17217e6db6a02967e635ceaab5f30100940bd",
+    "/sidebar-2.811e8d2ea8ca66d56752.png": "84f1b1cc26a3d439862ce35dea4d14021ee7e227",
+    "/sidebar-3.f3b7fb8aa390ebdda164.png": "9a47bfb91b2971ca69ce28864c12d409261f6d1d",
+    "/styles.f012a40446803773785b.css": "e2d8f49be495286251a9b3ed8e17066ad758b59a",
+    "/sw.js": "902d9b1bc7a91f98957b2a9e7ef2b8e28b9ab1b9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
